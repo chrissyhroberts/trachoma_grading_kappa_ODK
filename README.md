@@ -18,6 +18,11 @@ To increase the number of questions
 * Save the form and upload to ODK Central
 * Test it, check kappa scores make sense
 
+## Screenshots
+
+![](./figs/fig1.jpeg)
+![](./figs/fig2.jpeg)
+
 ## Features
 
 * Only the first selected answer is recorded. Changing the answer is not recorded after the first press.
