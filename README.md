@@ -4,6 +4,10 @@ This ODK form is designed to present a series of curated images of trachoma to f
 In the choices sheet of `trachoma_grading_kappa.xlsx` you will see the choice list `reference`.
 
 This stores the expert data which provides the reference information for the photo, plus any additional notes that you want to show up on screen.
+You can update with different sets of photos by loading a new set with the same filenames to ODK Central. It will manage all the media files on your behalf so there is no need to side-load images.
+
+Expert trachoma grades (the reference group for kappa scores) are stored in the `choices` tab on the XLS form. 
+You can also provide additional information in feedback, such as "this image shows an eyelid with signs of TF, TI and TS"
 
 The prototype here has 10 questions. 
 
